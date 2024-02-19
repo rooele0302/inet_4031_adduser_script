@@ -4,7 +4,7 @@
 
 This repository contains a Python script for creating users, setting passwords, and assigning them to groups. It's designed for use in an INET 4031 (Networking) course context.
 
-## Usage
+## Operation
 
 1. **Clone the Repository:**
    ```bash
